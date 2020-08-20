@@ -1,0 +1,75 @@
+
+body {
+    font-family: Cabin, sans-serif;
+}
+
+.logo {
+    font-family: Lobster, cursive;
+    font-size: 2rem;
+}
+
+.logo1 {
+    font-family: Lobster, cursive;
+}
+
+ .linea {
+     margin-left: 0;
+     margin-right: 7rem;
+     margin-top: 0;
+ }
+
+ .subtitulo {
+     font-weight: 700;
+     color: #373A3C;
+ }
+
+
+.carousel-indicators {
+    position: relative;
+}
+
+.foto {
+    width: auto;
+}
+
+.carousel-indicators li {
+    width: 1rem;
+    height: 1rem;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.receta {
+    text-decoration: underline;
+}
+
+.lista {
+    list-style: none;
+}
+
+.recetas-relacionadas {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.espacio {
+    border-right: 1em;
+    border-left: 1em;
+    border-color: #373A3C;
+}
+
+.Newsletter {
+padding: 15%;
+    align-content: center;
+    background-color: #DC3545;
+}
+
+.centrado {
+align-items: center;
+    margin-right: auto;
+
+}
+
