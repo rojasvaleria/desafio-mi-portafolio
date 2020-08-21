@@ -5,7 +5,6 @@ $(function () {
 
 
 $('a').click(function(){
-    alert("Click");
     $('html, body').animate({
         scrollTop: $( $(this).attr('href') ).offset().top
     }, 1000);
