@@ -46,19 +46,14 @@ h2 {
      color: white;
  }
 
- .subtitulo {
-     font-weight: 700;
-     color: #373A3C;
- }
+
 
 
 .carousel-indicators {
     position: relative;
 }
 
-.foto {
-    width: auto;
-}
+
 
 .carousel-indicators li {
     width: 1rem;
@@ -89,11 +84,7 @@ h2 {
     border-color: #373A3C;
 }
 
-.Newsletter {
-padding: 15%;
-    align-content: center;
-    background-color: #DC3545;
-}
+
 
 .centrado {
 align-items: center;
